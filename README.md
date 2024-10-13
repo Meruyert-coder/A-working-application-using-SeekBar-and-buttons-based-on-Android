@@ -1,1 +1,3 @@
-# A-working-application-using-SeekBar-and-buttons-based-on-Android
+# Рабочее приложение с использованием Seekbar и кнопками на базе Android
+
+
